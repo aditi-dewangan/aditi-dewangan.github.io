@@ -1,4 +1,4 @@
 title: Aditi Dewangan
-logo: file:///Users/aditidewangan/Downloads/PHOTO-2025-07-13-10-20-10.jpg
+logo: <img src='%{file:///Users/aditidewangan/Downloads/PHOTO-2025-07-13-10-20-10.jpg}'>"
 description: aditidew[at]uw[dot]edu
 theme: jekyll-theme-minimal
