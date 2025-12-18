@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Undergraduate Computer Science student at the [University of Washington](https://www.cs.washington.edu/) with a minor in Entrepreneurship.  
-My interests are in machine learning for health tech, applied systems, and building technology that improves patient care and accessibility. 
+#### Undergraduate Computer Science student at the [University of Washington](https://www.cs.washington.edu/) with a minor in Entrepreneurship.  
+#### My interests are in machine learning for health tech, applied systems, and building technology that improves patient care and accessibility. 
 
 **Links:**  
 [Resume](./assets/Aditi_Dewangan_Resume.pdf) · [GitHub](https://github.com/aditi-dewangan) · [LinkedIn](https://linkedin.com/in/aditi-s-dewangan)
@@ -73,7 +73,7 @@ over 11,500 + students with over 130 programs and 35 courses and volunteer invol
 
 ## Skills
 
-**Languages:** Java, C++, Python, Swift
+**Languages:** Java, C++, Python, Swift   
 **Frameworks & Libraries:** React, Next.js, Tailwind CSS, NumPy, Kaldi  
 **Tools:** Git/GitHub, MATLAB, MySQL, MongoDB, Eclipse  
 **Cloud:** AWS, Google Cloud Platform, Azure
@@ -82,7 +82,3 @@ over 11,500 + students with over 130 programs and 35 courses and volunteer invol
 
 ## Contact
 Best way to reach me: **aditidew[at]cs[dot]washington[dot]edu**
-
-```
-The final element.
-```
