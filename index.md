@@ -10,30 +10,6 @@ layout: default
 
 ---
 
-## Projects
-
-### Mondrian Art Generator using Recursive Partitioning
-• Built a recursive image-partitioning algorithm to generate Mondrian-style artwork by subdividing canvases based
-on size thresholds and aspect ratios handling hundreds of recursive calls per render
-• Increased visual coherence by weighting color selection probabilities per quadrant while ensuring termination and
-balance through minimum region constraints and test cases for edge canvas sizes and extreme aspect ratios
-
----
-
-### Disaster Relief Resource Allocator
-• Implemented a recursive backtracking algorithm to maximize total population served under strict budget constraints
-across multiple regions with correctness validated by targeted test cases including worst-case inputs
-• Reduced effective search space by 60% using pruning and early termination, improving runtime from exponential
-brute force to tractable performance on inputs of up to 15 regions
-
----
-
-### Mini-Git (Version Control System Prototype)
-• Built a version control system supporting commit creation, history traversal, and repository state tracking
-• Developed 15+ unit tests ensuring robustness across edge cases using custom linked data structures in O(n) time
-
----
-
 ## Experience
 
 ### Laboratory for Auditory Neuroscience and Development — UW  
@@ -60,6 +36,30 @@ Bluetooth communication to Sensoria’s mobile app for AI powered rehabilitation
 over 11,500 + students with over 130 programs and 35 courses and volunteer involvement of over 700 participants
 • Developed cross-platform features using Swift for iOS and Next.js, React, and Tailwind CSS for the web interface
 • Collaborated on UI/UX improvements and feature expansion to enhance interactivity across devices
+
+---
+
+## Projects
+
+### Mondrian Art Generator using Recursive Partitioning
+• Built a recursive image-partitioning algorithm to generate Mondrian-style artwork by subdividing canvases based
+on size thresholds and aspect ratios handling hundreds of recursive calls per render
+• Increased visual coherence by weighting color selection probabilities per quadrant while ensuring termination and
+balance through minimum region constraints and test cases for edge canvas sizes and extreme aspect ratios
+
+---
+
+### Disaster Relief Resource Allocator
+• Implemented a recursive backtracking algorithm to maximize total population served under strict budget constraints
+across multiple regions with correctness validated by targeted test cases including worst-case inputs
+• Reduced effective search space by 60% using pruning and early termination, improving runtime from exponential
+brute force to tractable performance on inputs of up to 15 regions
+
+---
+
+### Mini-Git (Version Control System Prototype)
+• Built a version control system supporting commit creation, history traversal, and repository state tracking
+• Developed 15+ unit tests ensuring robustness across edge cases using custom linked data structures in O(n) time
 
 ---
 
