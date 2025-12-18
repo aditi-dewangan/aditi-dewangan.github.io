@@ -2,7 +2,11 @@
 layout: default
 ---
 
-# Aditi Made Changes
+I am an undergraduate student at the [University of Washington](https://www.cs.washington.edu/) studying Computer Science with a minor in Entrepreneurship. 
+
+My interests center around machine learning in health tech
+
+## Bio
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
