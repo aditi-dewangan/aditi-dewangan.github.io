@@ -2,4 +2,4 @@
 🎓 University of Washington '28\
 📚 Computer Science (minor in Entrepreneurship)
 
-Check out my website: aditi-dewangan.github.io
+Check out my website: [here](aditi-dewangan.github.io).
