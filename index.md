@@ -6,7 +6,7 @@ layout: default
 #### My interests are in machine learning for health tech, applied systems, and building technology that improves patient care and accessibility. 
 
 **Links:**  
-[Resume](./assets/Aditi_Dewangan_Resume.pdf) · [GitHub](https://github.com/aditi-dewangan) · [LinkedIn](https://linkedin.com/in/aditi-s-dewangan)
+[GitHub](https://github.com/aditi-dewangan) · [LinkedIn](https://linkedin.com/in/aditi-s-dewangan)
 
 ---
 
